@@ -1,6 +1,6 @@
-# git-lab
+# Git-Lab
 ### How To Set Up Your Own Temporary GitLab Instance
-1. Make a docker hub account and log into [pwd.](https://labs.play-with-docker.com/)
+1. Make a docker hub account and log into [pwd](https://labs.play-with-docker.com/).
 2. Create a new 4 hour session and a new instance
 3. I reccomend opening the terminal in your own now using the ssh they give you
 4. Run this command
